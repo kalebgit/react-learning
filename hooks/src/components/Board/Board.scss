@@ -1,0 +1,10 @@
+.board{
+    &__button{
+        // border-radius: 100%;
+        cursor: pointer;
+    }
+
+    &__title{
+        font-weight: 800;
+    }
+}

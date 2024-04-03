@@ -1,0 +1,15 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+
+.card{
+    border-width: 1.5rem;
+    font-family: 'Lilita One', cursive;
+    transition: 1.5s;
+
+    span{
+        pointer-events: none;
+    }
+    &:hover{
+        transform: rotateY(.5turn)
+    }
+}

@@ -1,0 +1,10 @@
+
+
+.main{
+    padding: .5rem;
+    background-color: rgba(223, 13, 13, 0.1);
+    backdrop-filter: blur(.5rem);
+    &__title{
+        color: rgb(53, 53, 53);
+    }
+}
